@@ -18,5 +18,5 @@ int main()
     tama= sizeof(num);
     printf("tamaño de la variable: %d bytes",tama); /*e-5*/
     
-    
+    return 0;
 }
